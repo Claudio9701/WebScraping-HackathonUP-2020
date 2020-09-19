@@ -25,7 +25,7 @@ En este taller primero aprenderemos qué es Web Scraping y para qué nos puede s
   </td>
   <td> <h3>45 m</h3> </td>
   <td>
-    <img src="" alt="Milhouse on Quarentine" height="250px"/>
+    <img src="https://media.giphy.com/media/d1ltmm0EvCAQo/giphy.gif" alt="Milhouse on Quarentine" height="250px"/>
   </td>
 </tr>
 <tr>
