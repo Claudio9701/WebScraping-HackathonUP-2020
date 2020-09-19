@@ -45,3 +45,5 @@ En este taller primero aprenderemos qué es Web Scraping y para qué nos puede s
   </td>
 </tr>
 </table>
+
+### Empecemos con el [Notebook](TallerScraping_HackathonUP_2020.ipynb)
